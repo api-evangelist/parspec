@@ -1,8 +1,13 @@
 aid: parspec
 name: Parspec
-description: 'Parspec is a company surfaced as a portfolio company of threshold-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: saas. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Parspec is an AI-native platform for electrical, lighting, and MEP (mechanical,
+  electrical, plumbing) distributors and manufacturer rep agencies in the construction
+  supply chain. It consolidates fragmented, manual workflows into one system covering
+  quoting for complex projects, automated submittal and O&M document creation, project
+  management (orders, fulfillment, billing), and sales management, with ERP integrations
+  (Epicor Eclipse, Epicor Prophet 21, SAP). Parspec is SOC 2 Type II attested and
+  markets itself to help distributors and rep agencies bid more, win more, and improve
+  profitability. Backed by Threshold Ventures.'
 url: https://raw.githubusercontent.com/api-evangelist/parspec/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,32 @@ x-backed-by:
 - threshold-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://www.parspec.io/hubfs/parspec-icon.png
 tags:
 - Company
 - Saas
+- Construction
+- MEP
+- Electrical
+- Distribution
+- Quoting
+- Submittals
+- Project Management
+- AEC
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,31 @@ maintainers:
 common:
 - type: Website
   url: https://www.parspec.io/
+- type: SignUp
+  url: https://app.parspec.io/login
+- type: Login
+  url: https://app.parspec.io/login
+- type: Documentation
+  url: https://knowledgebase.parspec.io/knowledge
+- type: Support
+  url: https://knowledgebase.parspec.io/knowledge
+- type: Blog
+  url: https://www.parspec.io/resources/tag/blog
+- type: PrivacyPolicy
+  url: https://www.parspec.io/privacy-policy
+- type: TermsOfService
+  url: https://intercom.help/parspec/en/articles/10206451-terms-of-service
+- type: TrustCenter
+  url: https://trust.parspec.io/
+- type: Compliance
+  url: https://trust.parspec.io/
+- type: DomainSecurity
+  url: security/parspec-domain-security.yml
+- type: TrustCenter
+  name: Trust Center artifact
+  url: security/parspec-trust-center.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

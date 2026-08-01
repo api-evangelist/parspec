@@ -1,0 +1,23 @@
+generated: '2026-07-20'
+method: searched
+probe: false
+source: https://trust.parspec.io/
+url: https://trust.parspec.io/
+certifications:
+- SOC 2 Type II
+compliance_programs:
+- name: SOC 2 Type II
+  status: attested
+  auditor: Prescient Assurance
+  criteria: AICPA Trust Services Criteria (Security, Availability)
+  report_access: available to customers and partners under NDA (contact hello@parspec.io)
+  announcement: https://www.parspec.io/resources/parspec-achieves-soc-2-type-2-compliance
+evidence:
+- source: https://trust.parspec.io/
+  kind: trust-center
+  note: Public Parspec Trust Center (hosted).
+- source: https://www.parspec.io/resources/parspec-achieves-soc-2-type-2-compliance
+  keywords: [soc 2 type 2, prescient assurance, aicpa, trust services criteria]
+- source: https://www.parspec.io/resources/parspec-soc2-type-1-certified
+  keywords: [soc 2 type 1, security]
+contact: hello@parspec.io
