@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Parspec is a company surfaced as a portfolio company of threshold-ventures and added to the API Evangelist network as a stub for enrichment. Sector: saas. This profile is a lead awaiting the enrichment pipeline.
+Parspec is an AI-native platform for electrical, lighting, and MEP (mechanical, electrical, plumbing) distributors and manufacturer rep agencies in the construction supply chain. It consolidates fragmented, manual workflows into one system covering quoting for complex projects, automated submittal and O&M document creation, project management (orders, fulfillment, billing), and sales management, with ERP integrations (Epicor Eclipse, Epicor Prophet 21, SAP). Parspec is SOC 2 Type II attested and markets itself to help distributors and rep agencies bid more, win more, and improve profitability. Backed by Threshold Ventures.
 
-Backed by: threshold-ventures — https://www.parspec.io/
+**Areas:** Company · Software-as-a-Service · Construction · MEP · Electrical · Distribution · Quoting · Submittals · Project Management · AEC
+
+## Parspec on APIs.io
+
+Everything profiled for Parspec is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/parspec/](https://apis.io/providers/parspec/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Parspec Domain Security](https://apis.io/security/parspec/parspec-domain-security/)
+- [Parspec Trust Center](https://apis.io/security/parspec/parspec-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.parspec.io/)
+- [Documentation](https://knowledgebase.parspec.io/knowledge)
+- [Sign up](https://app.parspec.io/login)
+- [Support](https://knowledgebase.parspec.io/knowledge)
+- [Blog](https://www.parspec.io/resources/tag/blog)
+- [Compliance](https://trust.parspec.io/)
+- [Trust centre](https://trust.parspec.io/)
+- [Terms of service](https://intercom.help/parspec/en/articles/10206451-terms-of-service)
+- [Privacy policy](https://www.parspec.io/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 13.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/parspec/](https://apis.io/providers/parspec/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Parspec: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/parspec/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
